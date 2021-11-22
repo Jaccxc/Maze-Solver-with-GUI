@@ -262,8 +262,8 @@
         <file>icons/math/icons8-type-24.png</file>
         <file>icons/math/iconsfg8-multiply-24.png</file>
         <file>icons/math/idfcons8-type-24.png</file>
-        <file>icons/appicon.ico</file>
-        <file>icons/icons8-delete-32.png</file>
-        <file>icons/Snipaste_2021-11-02_14-04-59.png</file>
+        <file>icons/mazeicon-nbg.png</file>
+        <file>icons/mazeicon-small.ico</file>
+        <file>icons/mazeicon-small.png</file>
     </qresource>
 </RCC>
